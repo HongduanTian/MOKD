@@ -21,7 +21,7 @@ Current works regarding cross-domain few-shot classification mainly focus on ada
 
 <center>
 
-![Heat map of similarity of support data representations on Omniglot](./img/omniglot_21_heatmap.png){width=65%}
+![Heat map of similarity of support data representations on Omniglot](./img/omniglot_21_heatmap.png)
 
 </center>
 
