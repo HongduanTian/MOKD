@@ -135,13 +135,7 @@ class HSICEstimator:
                 max_hzy = hsic_zy
                 bestScale_hzy = scale
             
-            hsic_zz = self.estimate_unbiased_hsic(X=normalized_X, Y=normalized_Y, 
-                                                  stat_mode=stat_mode, q_quantile=q_quantile,
-                                                  scale=scale, require_variance=True)
-            
-            if hsic_zz > max_hzz:
-                max_hzz = hsic_zz
-                bestScale_hzz = scale
+        bestScale_hzz = bestScale_hzy
                     
         return bestScale_hzy, bestScale_hzz
 

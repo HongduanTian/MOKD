@@ -4,8 +4,6 @@
 
 </center>
 
-
-----
 <center>
 
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)]() [![Static Badge](https://img.shields.io/badge/Pub-ICML'24-blue)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Static Badge](https://img.shields.io/badge/Video%20-54b345)]() [![Static Badge](https://img.shields.io/badge/Slides%20-D76364)]()
