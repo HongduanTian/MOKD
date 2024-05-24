@@ -1,6 +1,6 @@
 <center> 
 
-# MOKD: Cross-domain Few-shot Classification via Maximizing Optimized Kernel Dependence 
+# MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence 
 
 </center>
 
@@ -10,7 +10,7 @@
 
 </center>
 
-This repository contains the source codes for reproducing the results of ICML'24 paper [*MOKD: Cross-domain Few-shot Classification via Maximizing Optimized Kernel Dependence*](). The code is mainly based on the repository released by [Li et al.](https://github.com/VICO-UoE/URL)
+This repository contains the source codes for reproducing the results of ICML'24 paper [*MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence*](). The code is mainly based on the repository released by [Li et al.](https://github.com/VICO-UoE/URL)
 
 
 ## Introduction
