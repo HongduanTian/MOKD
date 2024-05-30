@@ -6,11 +6,17 @@
 
 <center>
 
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)]() [![Static Badge](https://img.shields.io/badge/Pub-ICML'24-blue)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Static Badge](https://img.shields.io/badge/Video%20-54b345)]() [![Static Badge](https://img.shields.io/badge/Slides%20-D76364)](https://drive.google.com/file/d/1lpvWvgjqy3uKBOISMHX8eBWyOWprLzz9/view?usp=sharing)
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/pdf/2405.18786) [![Static Badge](https://img.shields.io/badge/Pub-ICML'24-blue)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Static Badge](https://img.shields.io/badge/Video%20-54b345)]() [![Static Badge](https://img.shields.io/badge/Slides%20-D76364)](https://drive.google.com/file/d/1lpvWvgjqy3uKBOISMHX8eBWyOWprLzz9/view?usp=sharing)
 
 </center>
 
-This repository contains the source codes for reproducing the results of ICML'24 paper [*MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence*](). The code is mainly based on the repository released by [Li et al.](https://github.com/VICO-UoE/URL)
+This repository contains the source codes for reproducing the results of ICML'24 paper:
+
+ [**MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**](). 
+
+**Author List**: Hongduan Tian, Feng Liu, Tongliang Liu, Bo Du, Yiu-ming Cheung, Bo Han.
+ 
+ The code is mainly based on the repository released by [Li et al.](https://github.com/VICO-UoE/URL)
 
 
 ## Introduction
@@ -100,5 +106,15 @@ To evaluate Pre-classifier Alignment (PA), which is the typical case of URL, run
 
 ```
 ./scripts/test_resnet18_pa.sh
+```
+
+## Citation
+```
+@inproceedings{tian2024mokd,
+    title={MOKD:Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence},
+    author={Hongduan Tian and Feng Liu and Tongliang Liu and Bo Du and Yiu-ming Cheung and Bo Han},
+    booktitle={International Conference on Machine Learning (ICML)},
+    year={2024}
+}
 ```
 
