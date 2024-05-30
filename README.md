@@ -12,7 +12,7 @@
 
 This repository contains the source codes for reproducing the results of ICML'24 paper:
 
- [**MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**](). 
+ [**MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**](https://arxiv.org/pdf/2405.18786). 
 
 **Author List**: Hongduan Tian, Feng Liu, Tongliang Liu, Bo Du, Yiu-ming Cheung, Bo Han.
  
