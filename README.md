@@ -15,8 +15,6 @@ This repository contains the source codes for reproducing the results of ICML'24
  [**MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**](https://arxiv.org/pdf/2405.18786). 
 
 **Author List**: Hongduan Tian, Feng Liu, Tongliang Liu, Bo Du, Yiu-ming Cheung, Bo Han.
- 
- The code is mainly based on the repository released by [Li et al.](https://github.com/VICO-UoE/URL)
 
 
 ## Introduction
@@ -107,6 +105,17 @@ To evaluate Pre-classifier Alignment (PA), which is the typical case of URL, run
 ```
 ./scripts/test_resnet18_pa.sh
 ```
+
+
+## Acknowledgement
+ 
+ The repository is built mainly upon these repositories:
+ 
+- [VICO-UoE/URL [1]](https://github.com/VICO-UoE/URL);
+- [google-research/meta-dataset [2]](https://github.com/google-research/meta-dataset)
+
+[1] Li et al. [Universal representation learning from multiple domains for few-shot classification](https://arxiv.org/pdf/2103.13841), ICCV 2021.
+[2] Triantafillou et al. [Meta-dataset: A dataset of datasets for learning to learn from few examples](https://arxiv.org/pdf/1903.03096), ICLR 2020.
 
 ## Citation
 ```
