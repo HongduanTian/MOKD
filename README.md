@@ -6,7 +6,7 @@
 
 <center>
 
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/pdf/2405.18786) [![Static Badge](https://img.shields.io/badge/Pub-ICML'24-blue)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Static Badge](https://img.shields.io/badge/Video%20-54b345)]() [![Static Badge](https://img.shields.io/badge/Slides%20-D76364)](https://drive.google.com/file/d/1tsftBBdy6YfqIeap_QJ-kh1Ut7sqmdRb/view?usp=sharing)
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/pdf/2405.18786) [![Static Badge](https://img.shields.io/badge/Pub-ICML'24-blue)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Static Badge](https://img.shields.io/badge/CN_Video%20-54b345)](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9) [![Static Badge](https://img.shields.io/badge/EN_Video%20-54b345)](https://www.youtube.com/watch?v=uWMM63Sv0ZI&t=110s) [![Static Badge](https://img.shields.io/badge/Slides%20-D76364)](https://drive.google.com/file/d/1tsftBBdy6YfqIeap_QJ-kh1Ut7sqmdRb/view?usp=sharing)
 
 </center>
 
