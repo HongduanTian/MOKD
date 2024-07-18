@@ -34,7 +34,7 @@ To solve this problem, we propose a bi-level optimization framework *__maximizin
 In our experiments, the main dependences required are the following libraries:
 ```
 Python 3.6 or greater (Ours: Python 3.8)
-yTorch 1.0 or greater (Ours: torch=1.7.1, torchvision=0.8.2)
+PyTorch 1.0 or greater (Ours: torch=1.7.1, torchvision=0.8.2)
 TensorFlow 1.14 or greater (Ours: TensorFlow=2.10)
 tqdm (Ours: 4.64.1)
 tabulate (0.8.10)
