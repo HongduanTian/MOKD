@@ -12,11 +12,10 @@ This repository contains the source codes for reproducing the results of ICML'24
 
 Current works regarding cross-domain few-shot classification mainly focus on adapting a simple transformation head on top of a frozen pretrained backbone (e.g. ResNet-18) by optimizing the _nearest centroid classifier_ loss (a.k.a. NCC-based loss). However, the undesirable phenomenon that there exists high similarity between samples from different classes is observed during the adaptation phase. The high similarity may induce uncertainty and further result in misclassification of data samples. 
 
-<center>
+<p align='center'>
+<img src=./img/omniglot_21_heatmap.png width=400/>
+</p>
 
-![Heat map of similarity of support data representations on Omniglot](./img/omniglot_21_heatmap.png)
-
-</center>
 
 To solve this problem, we propose a bi-level optimization framework *__maximizing optimized kernel dependence__* (__MOKD__) to learn a set of class-specific representations that matches the cluster structures indicated by the label information. Specifically, MOKD first optimizes the kernel used in Hilbert-Schmidt Independence Criterion to obtain the optimized kernel HSIC where the test power is maximized for precise detection of dependence. Then, the optimized kernel HSIC is further optimized to simultaneously maximize the dependence between representations and labels while minimize the dependence among all samples.
 
