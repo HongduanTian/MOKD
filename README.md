@@ -1,18 +1,9 @@
-<center> 
+<h1 align="center"> MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence </h1>
 
-# MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence 
+<p align="center">
+<a href="https://arxiv.org/pdf/2405.18786"><img src="https://img.shields.io/badge/arXiv-2405.18786-b31b1b.svg" alt="Paper"></a> <a href="https://icml.cc/"><img src="https://img.shields.io/badge/Pub-ICML'24-blue" alt="Conf"></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="Liscence"></a> <a href="https://hongduantian.github.io/_pages/data/slides/ICML24_MOKD.pdf"><img src="https://img.shields.io/badge/Slides%20-D76364" alt="Slides"></a> <a href="https://hongduantian.github.io/_pages/data/poster/icml24_mokd.pdf"><img src="https://img.shields.io/badge/Poster%20-Ffa500" alt="Poster"></a> <a href="https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9"><img src="https://img.shields.io/badge/CN_Video%20-54b345" alt="CN_Video"></a> <a href="https://www.youtube.com/watch?v=uWMM63Sv0ZI&t=110s"><img src="https://img.shields.io/badge/EN_Video%20-54b345" alt="EN_Video"></a></p>
 
-</center>
-
-<center>
-
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/pdf/2405.18786) [![Static Badge](https://img.shields.io/badge/Pub-ICML'24-blue)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Static Badge](https://img.shields.io/badge/Slides%20-D76364)](https://hongduantian.github.io/_pages/data/slides/ICML24_MOKD.pdf) [![Static Badge](https://img.shields.io/badge/Poster%20-Ffa500)](https://hongduantian.github.io/_pages/data/poster/icml24_mokd.pdf) [![Static Badge](https://img.shields.io/badge/CN_Video%20-54b345)](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9) [![Static Badge](https://img.shields.io/badge/EN_Video%20-54b345)](https://www.youtube.com/watch?v=uWMM63Sv0ZI&t=110s)
-
-</center>
-
-This repository contains the source codes for reproducing the results of ICML'24 paper:
-
- [**MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**](https://arxiv.org/pdf/2405.18786). 
+This repository contains the source codes for reproducing the results of ICML'24 paper: [**MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**](https://arxiv.org/pdf/2405.18786). 
 
 **Author List**: Hongduan Tian, Feng Liu, Tongliang Liu, Bo Du, Yiu-ming Cheung, Bo Han.
 
